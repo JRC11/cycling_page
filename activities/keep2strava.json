@@ -940,5 +940,11 @@
 "name": "Run from keep",
 "type": "Run",
 "gpx_file_path": "/home/runner/work/cycling_page/cycling_page/GPX_OUT/9223370304401291807.gpx"
+},
+{
+"run_id": 9223370303891719807,
+"name": "Ride from keep",
+"type": "Ride",
+"gpx_file_path": "/home/runner/work/cycling_page/cycling_page/GPX_OUT/9223370303891719807.gpx"
 }
 ]
